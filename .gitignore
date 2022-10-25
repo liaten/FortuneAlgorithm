@@ -43,3 +43,8 @@ build
 
 .vscode
 CMakeFiles
+CMakeCache.txt
+CMakeLists.txt
+Fortune
+Makefile
+cmake_install.cmake
